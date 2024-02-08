@@ -1,0 +1,14 @@
+C:\Users\kharbvik\source\repos\FindIndicesForTargetSum\FindIndicesForTargetSum\bin\Debug\net8.0\FindIndicesForTargetSum.exe
+C:\Users\kharbvik\source\repos\FindIndicesForTargetSum\FindIndicesForTargetSum\bin\Debug\net8.0\FindIndicesForTargetSum.deps.json
+C:\Users\kharbvik\source\repos\FindIndicesForTargetSum\FindIndicesForTargetSum\bin\Debug\net8.0\FindIndicesForTargetSum.runtimeconfig.json
+C:\Users\kharbvik\source\repos\FindIndicesForTargetSum\FindIndicesForTargetSum\bin\Debug\net8.0\FindIndicesForTargetSum.dll
+C:\Users\kharbvik\source\repos\FindIndicesForTargetSum\FindIndicesForTargetSum\bin\Debug\net8.0\FindIndicesForTargetSum.pdb
+C:\Users\kharbvik\source\repos\FindIndicesForTargetSum\FindIndicesForTargetSum\obj\Debug\net8.0\FindIndicesForTargetSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kharbvik\source\repos\FindIndicesForTargetSum\FindIndicesForTargetSum\obj\Debug\net8.0\FindIndicesForTargetSum.AssemblyInfoInputs.cache
+C:\Users\kharbvik\source\repos\FindIndicesForTargetSum\FindIndicesForTargetSum\obj\Debug\net8.0\FindIndicesForTargetSum.AssemblyInfo.cs
+C:\Users\kharbvik\source\repos\FindIndicesForTargetSum\FindIndicesForTargetSum\obj\Debug\net8.0\FindIndicesForTargetSum.csproj.CoreCompileInputs.cache
+C:\Users\kharbvik\source\repos\FindIndicesForTargetSum\FindIndicesForTargetSum\obj\Debug\net8.0\FindIndicesForTargetSum.dll
+C:\Users\kharbvik\source\repos\FindIndicesForTargetSum\FindIndicesForTargetSum\obj\Debug\net8.0\refint\FindIndicesForTargetSum.dll
+C:\Users\kharbvik\source\repos\FindIndicesForTargetSum\FindIndicesForTargetSum\obj\Debug\net8.0\FindIndicesForTargetSum.pdb
+C:\Users\kharbvik\source\repos\FindIndicesForTargetSum\FindIndicesForTargetSum\obj\Debug\net8.0\FindIndicesForTargetSum.genruntimeconfig.cache
+C:\Users\kharbvik\source\repos\FindIndicesForTargetSum\FindIndicesForTargetSum\obj\Debug\net8.0\ref\FindIndicesForTargetSum.dll
